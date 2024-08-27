@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin** (see above project)
 
-- 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/Kapil987/docker_projects)
+- 👯 I’m looking to collaborate on ???
 
 - 👨‍💻 All of my projects are available at [https://rachael-hogan.github.io/](https://rachael-hogan.github.io/)
 
