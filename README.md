@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rachael</h1>
+<h3 align="center">A passionate Fullstack Engineer from Boise,Idaho</h3>
 
-<!--
-**rachael-hogan/rachael-hogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a [Marketplace App](https://github.com/rachael-hogan/marketplace)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Kotlin** (see above project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/Kapil987/docker_projects)
+
+- 👨‍💻 All of my projects are available at [https://rachael-hogan.github.io/](https://rachael-hogan.github.io/)
+
+- 💬 Ask me about **React| Javascript/Typescript | PHP | CSS | Golang | Vue**
+
+- 📫 How to reach me **rachaelhogan13@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/rachaelhogan13](https://www.linkedin.com/in/kapil0123/)
